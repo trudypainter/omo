@@ -4,7 +4,7 @@ body {
   font-family: Helvetica, sans-serif;
   color: white;
   padding: 0.4em;
-  font-size: 3.5rem;
+  font-size: 3.8rem;
 }
 div {
   padding-bottom: 0.4em;
@@ -21,7 +21,7 @@ a:hover {
 /* ⭐️ ARENA */
 
 #arena {
-  border: 1px solid white;
+  border: 2px solid white;
   width: calc(min(600px, 50vh));
   /* height: calc(min(600px, 40vh)); */
 
@@ -68,7 +68,7 @@ a:hover {
   z-index: -1;
 }
 .footer {
-  font-size: 1.9rem;
+  font-size: 2.2rem;
   width: 100%;
   text-align: center;
   position: absolute;
