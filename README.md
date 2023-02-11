@@ -1,3 +1,3 @@
 website i made for my good friend omoruyi ⭐️
 
-[https://github.com/trudypainter/omo](https://github.com/trudypainter/omo)
+[https://trudypainter.github.io/omo/](https://trudypainter.github.io/omo/)
